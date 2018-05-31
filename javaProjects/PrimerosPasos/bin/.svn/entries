@@ -2,7 +2,7 @@
 
 dir
 3
-https://svn.mdiconcept.com/svn/pablo_curso_java/trunk/pruebas/PrimerosPasos/bin
+https://svn.mdiconcept.com/svn/pablo_curso_java/trunk/pruebas/PrimerosPasos/src
 https://svn.mdiconcept.com/svn/pablo_curso_java
 
 
@@ -26,18 +26,17 @@ psantamarina
 
 7b574a84-71df-492a-b7ab-61cb7432b56f
 
-PrimerClase.class
+PrimerClase.java
 file
 
 
 
 
-2018-05-31T17:24:16.439055Z
-f8c728e3c89db380df9bf63f8ec4e175
+2018-05-31T17:24:16.378052Z
+3f84f90787675792ef4638f09ca2c3d1
 2018-05-31T17:32:14.082560Z
 3
 psantamarina
-has-props
 
 
 
@@ -58,5 +57,6 @@ has-props
 
 
 
-655
+
+246
 
